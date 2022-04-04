@@ -87,7 +87,7 @@ def main_apv():
         raw_input('      Copy Key And Press Enter For Approvel Your Key ')
         os.system('xdg-open https://wa.me/+923022536182')
 
-    r1 = requests.get('https://raw.githubusercontent.com/MuhammadRaja786/Raja/main/Raja.txt').text
+    r1 = requests.get('https://github.com/Khanking-909/khanb.txt').text
     if key1 in r1:
         main_system()
     else:
@@ -101,7 +101,7 @@ def main_apv():
         print '          YOUR KEY : ' + key1
         print ''
         raw_input('      Copy Key And Press Enter For Approvel Your Key ')
-        os.system('xdg-open https://wa.me/+923022536182')
+        os.system('xdg-open https://wa.me/+923171753731')
 
 
 def main_system():
